@@ -37,6 +37,9 @@ cd automatic && ./webui.sh --debug --use-ipex
    ```
    
 10. I have only successfully utilized the following models:
+  * DreamShaper SD 1.5 v8
+  * Juggernaut Reborn
+  * Runway SD 1.5
 
 11. Try a prompt via this [post](https://www.reddit.com/r/StableDiffusion/comments/wve7cs/repeatable_prompt_format_for_dnd_character/?rdt=35615) from Reddit I found:
 ```bash
