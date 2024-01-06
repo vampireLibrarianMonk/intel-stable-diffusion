@@ -2,8 +2,8 @@
 This repo was created for anyone curious as to what is going on with Intel GPUs in regards to Stable Diffusion. 
 
 # Current Articles
-[GIMP Stable Diffusion](https://game.intel.com/us/stories/intel-arc-graphics-stable-diffusion/): Could not get this working but I am not one who works with photo editing software.
-[GIMP Stable Diffusion Update](https://www.youtube.com/watch?v=YCK7WPo7PKo): I will look at this at some point in the future.
+  * [GIMP Stable Diffusion](https://game.intel.com/us/stories/intel-arc-graphics-stable-diffusion/): Could not get this working but I am not one who works with photo editing software.
+  * [GIMP Stable Diffusion Update](https://www.youtube.com/watch?v=YCK7WPo7PKo): I will look at this at some point in the future.
 
 # Operating System
 This repo was put together with my intel gpu machine operating on Ubuntu 22.4.03. 
