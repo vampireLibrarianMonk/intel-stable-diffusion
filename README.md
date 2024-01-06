@@ -6,7 +6,7 @@ This repo was created for anyone curious as to what is going on with Intel GPUs 
   * [GIMP Stable Diffusion Update](https://www.youtube.com/watch?v=YCK7WPo7PKo): I will look at this at some point in the future.
 
 # Operating System
-This repo was put together with my intel gpu machine operating on Ubuntu 22.4.03. 
+This repo was put together with my [intel gpu machine](https://github.com/vampireLibrarianMonk/intel-gpu-hello) operating on Ubuntu 22.4.03. 
 
 # Getting Started
 1. Follow the directions for GPU Monitoring Software, Resizeable BAR, Driver and Intel® oneAPI Base Toolkit [here](https://github.com/vampireLibrarianMonk/intel-gpu-hello) in order to setup and use the GPU monitoring software.
